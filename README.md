@@ -1,4 +1,5 @@
 GoogleCloudVision OCRを使って、請求書を読込、キーワードを取得してエクセルファイルに転記する。
+相手先企業名が重複した請求書があり、すでにシートが作成されている場合、上書きや連番にせず、次の行に記載。
 
 ![image](https://github.com/user-attachments/assets/2cd9f54c-9e0d-438d-b55f-5f48d8d07115)
 ![image](https://github.com/user-attachments/assets/2b53e397-60e7-473b-9e79-9cf8707cda5f)
